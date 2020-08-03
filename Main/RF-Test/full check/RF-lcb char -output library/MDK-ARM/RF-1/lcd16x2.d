@@ -1,0 +1,10 @@
+rf-1\lcd16x2.o: ..\Src\lcd16x2.c
+rf-1\lcd16x2.o: ..\Src\lcd16x2.h
+rf-1\lcd16x2.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+rf-1\lcd16x2.o: .\RTE\_RF-1\RTE_Components.h
+rf-1\lcd16x2.o: ../Drivers/CMSIS/Include/core_cm3.h
+rf-1\lcd16x2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+rf-1\lcd16x2.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+rf-1\lcd16x2.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+rf-1\lcd16x2.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+rf-1\lcd16x2.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h

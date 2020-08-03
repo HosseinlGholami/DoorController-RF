@@ -1,0 +1,15 @@
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+learn\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+learn\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+learn\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+learn\timers.o: ../Inc/FreeRTOSConfig.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+learn\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h

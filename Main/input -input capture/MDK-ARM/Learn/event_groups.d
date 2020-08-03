@@ -1,0 +1,15 @@
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+learn\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+learn\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+learn\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+learn\event_groups.o: ../Inc/FreeRTOSConfig.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+learn\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

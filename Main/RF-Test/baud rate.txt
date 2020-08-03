@@ -1,0 +1,4 @@
+24- bit - 35msec
+?      - 1sec
+
+baud rate 735\
